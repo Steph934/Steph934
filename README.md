@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="left">Je développe en pair (avec un ami) sur JS (React, Node), des projets qui nous animes.</h6>
+<h6 align="left">Je développe en pair (avec un ami) sur JS (React, Node), des projets qui nous animent.</h6>
 
 ###
 
